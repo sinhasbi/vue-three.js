@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@types/dat.gui": "^0.7.13",
+    "@types/stats": "^0.16.30",
     "@types/three": "^0.171.0",
     "dat.gui": "^0.7.9",
     "pinia": "^2.3.0",
